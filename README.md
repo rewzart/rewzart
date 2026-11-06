@@ -1,16 +1,23 @@
-## Hi there 👋
+# こんにちは、ライルです 👋
 
-<!--
-**rewzart/rewzart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webクリエイターを目指して勉強中。  
+デザインからコーディングまで、「見やすく、使いやすく、壊れない」Webサイト作りを目指しています。
 
-Here are some ideas to get you started:
+## 🌏 About
+- 🎓 WEBクリエイター科 在学中
+- 🗣️ 日本語・English・Russian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 学習中のスキル
+![HTML5]
+![CSS3]
+![JavaScript]
+![Figma]
+![Git]
+
+## 🚀 現在の目標
+- レスポンシブなコーディングを身につける
+- ポートフォリオサイトを制作・公開する
+- WordPressのオリジナルテーマを作る
+
+## 📫 Contact
+- Portfolio: 準備中
